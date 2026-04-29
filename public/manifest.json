@@ -1,0 +1,21 @@
+{
+  "name": "EtiquetaFácil Pro",
+  "short_name": "EtiquetaFácil",
+  "description": "Impressão de etiquetas de validade para cozinha via Bluetooth.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F1115",
+  "theme_color": "#EA580C",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/kitchen/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/kitchen/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

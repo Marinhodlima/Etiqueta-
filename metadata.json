@@ -1,0 +1,6 @@
+{
+  "name": "Etiquetadora de Cozinha",
+  "description": "Aplicativo para gerar e imprimir etiquetas de validade para manipulação de ingredientes, com cálculo automático de datas.",
+  "requestFramePermissions": ["bluetooth"],
+  "majorCapabilities": []
+}
